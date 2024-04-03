@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div className='main-header'>
         <div className='header-box'>
-            <div style={{fontWeight:'bold'}}>Approve Timesheet</div>
+            <h3 style={{fontWeight:'bolder', paddingTop:'5px'}}>Approve Timesheet</h3>
             <div className='profile'>
                 <div className='profile-details'>
                     <div className='icon'><PersonOutlineIcon /></div>

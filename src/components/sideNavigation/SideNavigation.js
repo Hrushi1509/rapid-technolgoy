@@ -8,11 +8,11 @@ const SideNavigation = () => {
     return (
         <div className='sideNavigation'>
             <div className='imageDiv'>
-                <img style={{}} src='https://www.logomaker.com/wpstatic/uploads/2015/06/Logo-Samples2-56-min.jpg' alt='imagesss' />
+                <h4>RapidTech</h4>
             </div>
             <Navigations />
 
-            <div className='navigation sign-out'>
+            <div style={{position:'sticky'}} className='navigation sign-out'>
                 <span><LogoutIcon /></span>
                 <span>Sign Out</span>
             </div>
