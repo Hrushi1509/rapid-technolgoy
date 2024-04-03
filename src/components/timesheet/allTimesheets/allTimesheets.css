@@ -1,0 +1,7 @@
+.timesheetSection{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+} 

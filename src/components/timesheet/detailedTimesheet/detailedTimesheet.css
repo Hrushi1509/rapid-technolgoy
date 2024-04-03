@@ -1,0 +1,16 @@
+.detailedTimesheet{
+    margin: 10px 20px;
+}
+
+.searchandtimesheet{
+    display: flex;
+    gap: 120px;
+}
+
+.searchBar{
+    flex: 1;
+}
+
+.timesheet{
+    flex: 5;
+}

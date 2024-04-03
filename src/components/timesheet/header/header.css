@@ -1,0 +1,40 @@
+.main-header{
+    margin: 10px 20px;
+}
+
+.header-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 80px;
+}
+
+.profile-details{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    cursor: pointer;
+}
+
+.profileName{
+    display: flex;
+    flex-direction: column;
+}
+
+.icon{
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.notification-icon{
+    color: red;
+    cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.calculation{
+    margin: 10px 20px;
+}
+
+.calculationBody{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.calculationDetails{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    flex: 1;
+    padding: 10px 20px;
+    margin: 0 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px;
+}
+
+.calculationLeft{
+    display: flex;
+    flex-direction: column;
+}
+
+.calculationDetail{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.calculationValue{
+    font-size: 17px;
+    font-weight: 700;
+}

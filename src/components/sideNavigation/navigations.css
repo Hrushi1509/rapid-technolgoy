@@ -1,0 +1,11 @@
+.navigations{
+    margin-top: 30px;
+}
+
+.navigation{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 7px;
+    cursor: pointer;
+}

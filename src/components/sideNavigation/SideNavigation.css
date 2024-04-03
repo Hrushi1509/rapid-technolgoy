@@ -1,0 +1,16 @@
+.sideNavigation{
+    flex: 1;
+    background-color: white;
+    margin: 10px;
+    position: relative;
+}
+
+.sign-out{
+    position: absolute;
+    bottom: 10px;
+}
+
+.imageDiv{
+    height: 50px;
+    width: 80px;
+}
